@@ -1,3 +1,6 @@
+<h1><a href=""><strong>Explore Bootstrap docs »</strong></a><h1>
+
+
 <p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
