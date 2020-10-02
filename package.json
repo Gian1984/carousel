@@ -1,0 +1,22 @@
+{
+  "name": "gianluca",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"https://getbootstrap.com/\">     <img src=\"https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-solid.svg\" alt=\"Bootstrap logo\" width=\"72\" height=\"72\">   </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gian1984/One-more-round-on-the-Carousel-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gian1984/One-more-round-on-the-Carousel-/issues"
+  },
+  "homepage": "https://github.com/Gian1984/One-more-round-on-the-Carousel-#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
