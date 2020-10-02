@@ -1,4 +1,4 @@
-<h1><a href=""><strong>Explore Bootstrap docs »</strong></a><h1>
+<h1><a href="https://gian1984.github.io/carousel/."><strong>lien a l'exer »</strong></a><h1>
 
 
 <p align="center">
